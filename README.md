@@ -1,2 +1,2 @@
 # KTUWebProject2020
-KTU Web puslapio projektas
+Fill this up please, aš tingiu
