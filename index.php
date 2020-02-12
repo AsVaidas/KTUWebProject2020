@@ -5,6 +5,6 @@ echo "Hello World";
 
 $language = "LT";
 
-print_r(getStringList("Index.Main text.".$language));
+print_r(getString("Index.Main text.".$language));
 
 ?>
