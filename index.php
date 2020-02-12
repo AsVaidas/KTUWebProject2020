@@ -1,9 +1,8 @@
 <?php
-
+include "./API/Messages.php";
 
 echo "Hello World";
 
+echo getMessage("Index.Main text.LT");
 
 ?>
-<br><br>
-Pagrindinis Index failas, jeigu matote šį failą, sėkmingai sukonfiguravote savo Web serverį ir galite laukti tolimesnių žingsnių
