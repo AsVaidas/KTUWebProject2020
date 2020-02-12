@@ -3,6 +3,8 @@ include "./API/Messages.php";
 
 echo "Hello World";
 
-echo getMessage("Index.Main text.LT");
+$language = "LT";
+
+print_r(getStringList("Index.Main text.".$language));
 
 ?>
